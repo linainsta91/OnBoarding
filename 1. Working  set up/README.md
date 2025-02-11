@@ -1,6 +1,6 @@
 
 
-##  1. Working set-up (Done)
+##  1. Working set-up <span style="color:green;">(doing)</span>
 
 - Computer 💻
 - Operating System: Ubuntu
